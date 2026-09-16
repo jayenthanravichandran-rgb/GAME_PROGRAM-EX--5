@@ -2,8 +2,8 @@
 
 ## Making Player to collect the ammo and increase the bullet spawn count.
 
-## Name : JAIAKASH J
-## Reg No : 212225240055
+## Name : JAYENTHAN R
+## Reg No : 212225240057
 
 ##  Aim
 To implement a gameplay feature where the player collects ammo pickups in the game world. Upon collecting ammo, the player's ammo count increases, enabling more bullet spawns (shots).
